@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-phi-gold-48.vercel.app/api/top-langs/?username=LeNigloNarvalo&count_private=true&layout=normal&langs_count=20&theme=dracula&card_width=750&columns=2&cache_bust=1)
+![Top Langs](https://github-readme-stats-phi-gold-48.vercel.app/api/top-langs/?username=LeNigloNarvalo&count_private=true&layout=normal&langs_count=20&theme=dracula&card_width=750&columns=2&total_bar=true&cache_bust=1)
